@@ -33,8 +33,6 @@ class NewFeed extends StatelessWidget {
     
   }
 }
-
-
 class PostTile extends StatelessWidget {
 
   const PostTile({Key? key,required this.imagelinklist}) :
